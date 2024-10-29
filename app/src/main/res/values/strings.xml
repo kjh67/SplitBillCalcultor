@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Split Bill Calculator</string>
+    <string name="calculateSplitBillText">Calculate split bill</string>
+    <string name="tipAmount">Tip amount: %s</string>
+    <string name="billAmount">Bill amount</string>
+    <string name="tipPercentage">Tip percentage</string>
+    <string name="roundUpSplitAmounts">Round up split amounts?</string>
+    <string name="numPeopleText">People</string>
+    <string name="totalAmount">To pay: %s</string>
+    <string name="amountPerPerson">Per person: %s</string>
+</resources>
