@@ -15,7 +15,7 @@ import java.text.NumberFormat
  * See [testing documentation](http://d.android.com/tools/testing).
  */
 //@RunWith(AndroidJUnit4::class)
-class TipCalculatorUITests {
+class SplitBillCalculatorUITests {
 
     @get:Rule
     val composeTestRule = createComposeRule()

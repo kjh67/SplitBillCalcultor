@@ -9,7 +9,7 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class TipCalculatorTests {
+class SplitBillCalculatorTests {
     @Test
     fun calculateTip_20PercentNoRoundup() {
         val amount = 10.00
